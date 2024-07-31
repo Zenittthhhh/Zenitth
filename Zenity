@@ -1,0 +1,5 @@
+git clone https://github.com/Zenittthhhh/Zenitth.git
+cd Zenith
+git add .
+git commit -m "Añadir sitio web"
+git push origin main
